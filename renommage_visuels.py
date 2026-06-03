@@ -9,7 +9,7 @@ st.set_page_config(page_title="Rénommateur de Visuels EAN -> IFLS", page_icon="
 
 st.title("📸 Convertisseur de Noms de Visuels")
 st.write(
-    "Importez votre fichier Excel et vos images pour les renommer instantanément selon vos codes."
+    "Importez votre fichier Excel et vos images pour les renommer instantanément par IFLS."
 )
 
 # 1. Zone d'import du fichier Excel
