@@ -1,4 +1,4 @@
-# remmage-visuels-PMC
+# # remmage-visuels-PMC
 
 # 📸 Convertisseur & renommage de visuels (EAN ➔ Code Interne)
 
@@ -45,6 +45,6 @@ Pour exécuter le projet dans un environnement virtuel isolé et sécurisé sans
 # Utilisation du gestionnaire moderne 'uv' pour une exécution instantanée
 uvx --with pandas --with openpyxl streamlit run renommage_visuels.py
 
----
-💡 *Projet conçu et réalisé par **Laura Sébille** dans une optique d'optimisation des processus internes et de transition numérique des outils de gestion de catalogue.*
-📅 *03/06/2026*
+```
+## 💡 Projet conçu et réalisé par Laura Sébille dans une optique d'optimisation des processus internes et de transition numérique des outils de gestion de catalogue.
+📅 03/06/2026
