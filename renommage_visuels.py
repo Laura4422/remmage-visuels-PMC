@@ -7,7 +7,7 @@ import streamlit as st
 # Configuration de la page
 st.set_page_config(page_title="Rénommateur de Visuels EAN -> IFLS", page_icon="📸")
 
-st.title("📸 Convertisseur de Noms de Visuels")
+st.title("📸 Renommage EAN > IFLS PMC")
 st.write(
     "Importez votre fichier Excel et vos images pour les renommer instantanément par IFLS."
 )
